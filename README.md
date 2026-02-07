@@ -15,5 +15,5 @@
 
 ## Ссылки
 * [Официальный сайт HiWonder](https://www.hiwonder.com/collections/bus-servo?page=1)
-* [Документация к протоколу обмена данными](https://github.com/S-LABc/HiWonder-Serial-Servo-Arduino-Library/docs/)
-* [Пример схемы подключения](https://github.com/S-LABc/HiWonder-Serial-Servo-Arduino-Library/docs/half_full_uart_sch.png)
+* [Документация к протоколу обмена данными](https://github.com/S-LABc/HiWonder-Serial-Servo-Arduino-Library/blob/main/docs/Hiwonder%20Bus%20Servo%20Communication%20Protocol.pdf)
+* [Пример схемы подключения](https://github.com/S-LABc/HiWonder-Serial-Servo-Arduino-Library/blob/main/docs/half_full_uart_sch.png)
